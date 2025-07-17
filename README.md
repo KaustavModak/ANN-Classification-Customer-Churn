@@ -1,10 +1,9 @@
-# ANN-Classification-Customer-Churn
-# 🔥 TensorFlow Customer Churn Predictor
+# 🔥 ANN-Classification-Customer-Churn
 
 A lightweight **Streamlit app** that predicts whether a customer is likely to churn based on demographic and service-related input features. Powered by a trained TensorFlow model.
 
-![App Screenshot](<img width="1899" height="824" alt="Screenshot 2025-07-18 001526" src="https://github.com/user-attachments/assets/d05e895a-f112-42f0-ac66-32bbee2a40bb" />
-<img width="1894" height="826" alt="Screenshot 2025-07-18 001542" src="https://github.com/user-attachments/assets/8423d915-147a-4a9b-8dca-7566904db76d" />)
+![App Screenshot]<img width="1899" height="824" alt="Screenshot 2025-07-18 001526" src="https://github.com/user-attachments/assets/d05e895a-f112-42f0-ac66-32bbee2a40bb" />
+<img width="1894" height="826" alt="Screenshot 2025-07-18 001542" src="https://github.com/user-attachments/assets/8423d915-147a-4a9b-8dca-7566904db76d" />
 
 ## 🚀 Live Demo
 
