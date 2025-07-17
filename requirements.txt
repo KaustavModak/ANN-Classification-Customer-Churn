@@ -1,6 +1,8 @@
-tensorflow
+tensorflow==2.13.0
 scikit-learn
 pandas
 numpy
 tensorboard
 matplotlib
+streamlit
+
