@@ -8,7 +8,7 @@ A lightweight **Streamlit app** that predicts whether a customer is likely to ch
 ## 🚀 Live Demo
 
 👉 Try the live app on Hugging Face Spaces:  
-[https://your-username-your-app.hf.space](https://huggingface.co/spaces/KaustavModak/ann-classification-customer-churn)
+[https://huggingface.co/spaces/KaustavModak/ann-classification-customer-churn]
 
 ---
 
