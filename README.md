@@ -87,7 +87,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Credits
-
-Created by [Your Name](https://github.com/KaustavModak)  
-Deployed on [Hugging Face Spaces](https://huggingface.co/KaustavModak)
